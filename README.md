@@ -5,6 +5,11 @@ __Long project title, e.g.,*not yet determined
 
 Research question: To what extent can accomondation owners change their business model at peak dates where there is certain international events at the city, in order to better match supply and demand that in turns positively effects the economy?
 
+- In which country has the price of Airbnbs changed the most during the Corona pandemic?
+- How did the preffered location (city or outside) change after corona? And how did this affect the prices of these locations?
+- How did the Airbnb bookings moved in terms of location? Which neighborhoods are popular now, and which ones before the COVID 19 pandemic?
+
+
 ## Motivation
 
 Since at such dates like (Eurovision, World cup etc.) where there is many demand there is many types and variety of accomondations (expensive, big, central, small, house, apartment, shared) but maybe consumers prefer certain types more at the point of time. So we can gather data to look into what consumers prefer and share these insights with managers/providers to fluctuate their offering to better suit these consumers at these times. So that the main problem that will be solved is more demand matching supply, and more people finding what they need, and less accommodations being empty that effects the economy at these certain dates.
